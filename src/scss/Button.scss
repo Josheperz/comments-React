@@ -1,0 +1,21 @@
+button{
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 0px;
+  font-size: 16px;
+  font-weight: 500;
+  
+}
+.btndark:hover{
+  background-color:rgb(243, 243, 238);
+  color: rgb(10, 12, 11);
+}
+.btndark{
+  background-color: rgb(35, 25, 25);
+  color: rgb(243, 243, 238);;
+}
+.btnlight:hover{
+  background-color: rgb(10, 12, 11);
+  color: rgb(243, 243, 238);
+}

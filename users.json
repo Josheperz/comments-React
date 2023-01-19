@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "email": "johne@mail.com",
+    "password": "changeme",
+    "name": "Jhone",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=6453",
+    "creationAt": "2023-01-17T02:58:03.000Z",
+    "updatedAt": "2023-01-17T02:58:03.000Z",
+    "stars":"⭐⭐⭐⭐"
+  },
+  {
+    "id": 2,
+    "email": "noa@mail.com",
+    "password": "12345",
+    "name": "Noa",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=9528",
+    "creationAt": "2023-01-17T02:58:03.000Z",
+    "updatedAt": "2023-01-17T02:58:03.000Z",
+    "stars":"⭐⭐"
+  },
+  {
+    "id": 3,
+    "email": "admin@mail.com",
+    "password": "admin123",
+    "name": "Admin",
+    "role": "admin",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=6634",
+    "creationAt": "2023-01-17T02:58:03.000Z",
+    "updatedAt": "2023-01-17T02:58:03.000Z",
+    "stars":"⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 4,
+    "email": "james@abc.com",
+    "password": "james1234",
+    "name": "james",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+    "creationAt": "2023-01-17T04:31:33.000Z",
+    "updatedAt": "2023-01-17T04:31:33.000Z",
+    "stars":"⭐⭐⭐"
+  }
+]
